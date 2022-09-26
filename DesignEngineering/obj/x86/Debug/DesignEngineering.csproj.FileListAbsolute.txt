@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\bin\Debug\DesignEngineering.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\bin\Debug\DesignEngineering.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\obj\x86\Debug\DesignEngineering.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\obj\x86\Debug\DesignEngineering.Form2.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\obj\x86\Debug\DesignEngineering.Form3.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\obj\x86\Debug\DesignEngineering.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\obj\x86\Debug\DesignEngineering.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\obj\x86\Debug\DesignEngineering.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\obj\x86\Debug\DesignEngineering.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\obj\x86\Debug\DesignEngineering.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\bin\Debug\BarcodeDemo.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\bin\Debug\BarcodeLib.Barcode.WinForms.dll
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\bin\Debug\QRCoder.dll
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\bin\Debug\UnityEngine.dll
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\bin\Debug\QRCoder.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\DesignEngineering\DesignEngineering\bin\Debug\DesignEngineering.exe.config

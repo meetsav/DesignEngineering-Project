@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\qr\QRCoder-master\QRCoder\bin\Release\net35\QRCoder.dll
+C:\Users\HP\Desktop\qr\QRCoder-master\QRCoder\bin\Release\net35\QRCoder.pdb
+C:\Users\HP\Desktop\qr\QRCoder-master\QRCoder\bin\Release\net35\UnityEngine.dll
+C:\Users\HP\Desktop\qr\QRCoder-master\QRCoder\obj\Release\QRCoder.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\qr\QRCoder-master\QRCoder\obj\Release\QRCoder.dll
+C:\Users\HP\Desktop\qr\QRCoder-master\QRCoder\obj\Release\QRCoder.pdb
